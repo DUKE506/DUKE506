@@ -3,6 +3,8 @@
 [![Duke's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUKE506&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/DUKE506/github-readme-stats)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUKE506&langs_count=10&layout=compact)](https://github.com/DUKE506/DUKE506)﻿
 
+## Contact 📞
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dukebs1128@gmail.com)
 
 ## Tech Stack 🔨
 
