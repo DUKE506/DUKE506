@@ -4,7 +4,7 @@
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUKE506&langs_count=10&layout=compact)](https://github.com/DUKE506/DUKE506)﻿
 
 ## Contact 📞
-]![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&&link=mailto:dukebs1128@gmail.com)](mailto:dukebs1128@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&&link=mailto:dukebs1128@gmail.com)](mailto:dukebs1128@gmail.com)
 
 ## Tech Stack 🔨
 
