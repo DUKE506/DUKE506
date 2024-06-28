@@ -30,7 +30,7 @@
 
 #### ETC :house_with_garden:
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/AWS%20S3-%569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![Amazon Route53](https://img.shields.io/badge/AWS%20Route53-%238C4FFF.svg?style=for-the-badge&logo=Amazon-Route-53&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
