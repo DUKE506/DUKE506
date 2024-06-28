@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Duke's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+## Introduce 🔉
+👉 Working on github migration...
 
 ## Duke's Dev Status 🎓
 [![Duke's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUKE506&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/DUKE506/github-readme-stats)
