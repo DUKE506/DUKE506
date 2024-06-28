@@ -29,14 +29,9 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 #### ETC :house_with_garden:
-![AWS%20EC2](https://img.shields.io/badge/AWS-%F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS%20S3](https://img.shields.io/badge/AWS-%E35342.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS%20Route53](https://img.sEhields.io/badge/AWS-%F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![AWS EC2](https://img.shields.io/badge/AWS-%23F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS-%23E35342.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Route53](https://img.shields.io/badge/AWS-%23F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![AWS%20EC2](https://img.shields.io/badge/AWS-%23F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS%20S3](https://img.shields.io/badge/AWS-%23E35342.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS%20Route53](https://img.shields.io/badge/AWS-%23F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
