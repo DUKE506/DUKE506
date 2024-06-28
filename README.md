@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Duke's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-[![Duke's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUKE506)]&&theme=dark(https://github.com/DUKE506/github-readme-stats)
+[![Duke's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUKE506)]&theme=dark
+
+<!--(https://github.com/DUKE506/github-readme-stats) -->
 
 
 ## Hi there 👋
