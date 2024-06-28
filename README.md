@@ -41,6 +41,7 @@
 ![Amazon Route53](https://img.shields.io/badge/AWS%20Route53-%238C4FFF.svg?style=flat-square&logo=Amazon-Route-53&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white)
 
 <!--
 **DUKE506/DUKE506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
