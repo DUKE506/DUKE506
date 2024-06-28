@@ -29,7 +29,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 #### ETC :house_with_garden:
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23F68633.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23E35342.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Route53](https://img.shields.io/badge/AWS%20Route53-%23F68633.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
